@@ -1,0 +1,4 @@
+maximum number of classes which do not overlap
+
+least end time for the first class 
+the start time of the second class >end time of the first class
